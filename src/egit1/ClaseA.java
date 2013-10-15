@@ -6,4 +6,7 @@ public class ClaseA {
 
 	void metodoB() {
 	}
+
+	void metodoC() {
+	}
 }
