@@ -10,6 +10,4 @@ public class ClaseA {
 	void metodoC() {
 	}
 
-	void metodoD() {
-	}
 }
