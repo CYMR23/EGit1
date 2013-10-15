@@ -10,6 +10,4 @@ public class C1 {
 	void metodo3() {
 	}
 
-	void metodo4() {
-	}
 }
